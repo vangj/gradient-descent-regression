@@ -5,7 +5,7 @@ This library is to show serial Java and parallelized Scala/Spark implementations
 
 A few resources that might help give you insight into how gradient descent works are as follows.
 
-* [Gradient Descent: Intuition](https://www.youtube.com/watch?v=Fn8qXpIcdnI)
+* [Gradient Descent: Intuition](https://www.youtube.com/watch?v=kWq2k1gPyBs)
 * [An introduction to gradient descent and linear regression](https://spin.atomicobject.com/2014/06/24/gradient-descent-linear-regression)
 
 A few more notes about gradient descent is that it may be slow to converge (requires many iterations). Also, the learning rate at which you adjust the parameters may influence how quickly you converge as well as whether or not you will converge at all. There is always a chance you will get stuck in a local minimum using gradient descent. 
